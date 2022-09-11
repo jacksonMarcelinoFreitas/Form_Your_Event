@@ -3,7 +3,7 @@
 #
 
 <p style="align: center">
-    <a href="https://github.com/jacksonMarcelinoFreitas/Form_Your_Event">
+    <a href="https://jacksonmarcelinofreitas.github.io/Form_Your_Event/">
         <img src="https://github.com/jacksonMarcelinoFreitas/Mentoring_Form/raw/master/Buttom%20to%20see.png" alt="Button to see the project" style="width:250px; align:center">
     </a>
 </p>
